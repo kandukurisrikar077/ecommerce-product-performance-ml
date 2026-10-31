@@ -1,0 +1,9 @@
+.venv/
+venv/
+backup_before_retraining/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+.streamlit/secrets.toml
